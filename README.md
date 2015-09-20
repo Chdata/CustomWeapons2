@@ -14,7 +14,9 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 # Chdata's TODO List
 - When custom weapons are euipped, display in chat the names of the equipped items.
 - Integrate clientprefs.
-- Make the plugin more convenient.
+- Add lots of confirmation messages such as "Unequipped Weapon Name".
+- Split menus by weapon slot.
+- Fix every weapon with invisible viewmodels...???
 
 <hr>
 
