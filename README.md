@@ -17,6 +17,7 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 - Add lots of confirmation messages such as "Unequipped Weapon Name".
 - Split menus by weapon slot.
 - Fix every weapon with invisible viewmodels...???
+- Fix this botkiller nonsense that was fixed in VSH a year ago.
 
 <hr>
 
