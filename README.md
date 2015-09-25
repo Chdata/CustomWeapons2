@@ -12,14 +12,28 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 <hr>
 
 # Chdata's TODO List
-- When custom weapons are euipped, display in chat the names of the equipped items.
-- Integrate clientprefs.
-- Add lots of confirmation messages such as "Unequipped Weapon Name".
-- Split menus by weapon slot.
+- Integrate clientprefs + reload player weapons on plugin reset.
+- SteamID keyvalue to force "Self Made" quality. Supports multiple steamids.
+- Load newly added weapons+attributes without plugin reset.
+- Remove whatever is displaying my weapon's description randomly for no reason (on kill???)
+- Translation phrases
+- Custom wearables! (e.g. Gunboats, Chargin' Targe)
+- Downloads for weapons, controlled right from the weapon config
+
+* Low priority
+- Kill icons
+- Kill weapon_logclassname
+- Native or otherwise to see if a weapon has a certain attribute
+- List registered attributes for devs.
 - Fix every weapon with invisible viewmodels...???
+- The ability to apply/not apply certain attributes if certain cvars (such as hale_enable) are active (Attribute plugin creators can do this on their own, however a standard naming convention should be created like cw2_disable_x_attribute)
+- Auto chat advertisements (just use an chat advert plugin for this ...)
+
+* Completed
+- Add lots of confirmation messages such as "Unequipped Weapon Name".
+- When custom weapons are equipped, display in chat the names of the equipped items.
+- Split menus by weapon slot.
 - Fix this botkiller nonsense that was fixed in VSH a year ago.
-- Kill icons.
-- Load newly added weapons mid-game.
 
 <hr>
 
