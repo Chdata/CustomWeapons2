@@ -19,14 +19,14 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 - Translation phrases
 - Custom wearables! (e.g. Gunboats, Chargin' Targe)
 - Downloads for weapons, controlled right from the weapon config
+- weapon_logclassname overwriting on kill
 
 * Low priority
-- Kill icons
-- Kill weapon_logclassname
+- Kill icons (this should probably be controlled through a custom attribute plugin as there are varying scenarios in which you may use a variety of different kill icons ... dunno if custom kill icons are possible/easy to do)
 - Native or otherwise to see if a weapon has a certain attribute
 - List registered attributes for devs.
 - Fix every weapon with invisible viewmodels...???
-- The ability to apply/not apply certain attributes if certain cvars (such as hale_enable) are active (Attribute plugin creators can do this on their own, however a standard naming convention should be created like cw2_disable_x_attribute)
+- The ability to apply/not apply certain attributes if certain cvars (such as hale_enable) are active (Attribute plugin creators can do this on their own, however a standard naming convention should be created like cw2_orion_disable_x_attribute)
 - Auto chat advertisements (just use an chat advert plugin for this ...)
 
 * Completed
