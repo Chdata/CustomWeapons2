@@ -13,13 +13,11 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 
 # Chdata's TODO List
 - Integrate clientprefs + reload player weapons on plugin reset.
-- SteamID keyvalue to force "Self Made" quality. Supports multiple steamids.
 - Load newly added weapons+attributes without plugin reset.
 - Remove whatever is displaying my weapon's description randomly for no reason (on kill???)
 - Translation phrases
 - Custom wearables! (e.g. Gunboats, Chargin' Targe)
 - Downloads for weapons, controlled right from the weapon config
-- weapon_logclassname overwriting on kill
 
 * Low priority
 - Kill icons (this should probably be controlled through a custom attribute plugin as there are varying scenarios in which you may use a variety of different kill icons ... dunno if custom kill icons are possible/easy to do)
@@ -34,6 +32,8 @@ Valve attributes not unique enough? Create your own attributes sub-plugin with e
 - When custom weapons are equipped, display in chat the names of the equipped items.
 - Split menus by weapon slot.
 - Fix this botkiller nonsense that was fixed in VSH a year ago.
+- SteamID keyvalue to force "Self Made" quality. Supports multiple steamids.
+- weapon_logclassname overwriting on kill
 
 <hr>
 
